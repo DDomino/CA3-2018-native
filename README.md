@@ -5,4 +5,6 @@
 <b>
   - Clone the project. <br>
   - Run "yarn install" or "npm install" in the project folder.
+  - run "expo start"
+  - Make sure the backend is running: https://github.com/Srax/CA3-2018-backend
 <b>
